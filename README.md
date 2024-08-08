@@ -1,8 +1,13 @@
 **YOUR FULL NAME :** Nikhil Durgesh Vinchurkar 
+
 **DOMAIN NAME :** WEB DEVELOPMENT
+
 **INTERN ID :** CT4WD4570
+
 **BATCH DURATION :** JULY 10th, 2024 to AUGUST 10th, 2024.
+
 **Company Name :** Codetech it Solution
+
 
 ## Overview of the Project
 
